@@ -115,16 +115,5 @@ Eventix leverages GSAP for:
 4. Push your branch and create a Pull Request.
 
 
-## Contact
 
-For any queries or support, feel free to reach out:
-- **Email**: sdivakar2005@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/divakar-srinivasan/
-- **GitHub**: [divakar-srinivasan](https://github.com/divakar-srinivasan)
-
----
-
-Made with ❤️ by DIVAKAR S.
-
-👍
 
