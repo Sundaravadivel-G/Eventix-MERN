@@ -34,8 +34,8 @@ Eventix is a MERN stack-based web application designed for college students to s
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/divakar-srinivasan/React-Eventix-fullstack.git
-   cd React-Eventix-fullstack
+   git clone https://github.com/Sundaravadivel-G/Eventix-MERN
+   cd Eventix-MERN
    ```
 
 2. **Install Dependencies**
